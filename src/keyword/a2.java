@@ -20,6 +20,8 @@ public class a2 {
 		a2 s=new a2();
          s.m2();		
 System.out.println("new change commited");
+
+System.out.println("newly updated code");
 	}
 
 }
