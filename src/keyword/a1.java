@@ -17,6 +17,14 @@ public class a1 {
 		a1 s=new a1();
 		
 		s.m1(23,65);
+	
+			
+		System.out.println("karan new code");	
+			
+			
+			
+			
+			
 
 	}
 
